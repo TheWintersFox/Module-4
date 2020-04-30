@@ -44,7 +44,7 @@
         <ul>
 
             <li>He first began creating music on an illegal copy of FL studio, and soon after made his first mixtape on
-                Audacity. He showed it to some classmates at Grapevine Highschool.</li>
+                Audacity. He showed it to some classmates at Grapevine Highschool, resulting in his classmates voting him most likely to become famous his senior year.</li>
 
             <li>He worked at a Chicken Express when he was a teenager</li>
 
